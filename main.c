@@ -12,11 +12,7 @@ void DisableOpenGL(HWND, HDC, HGLRC);
 #define blue_c 0.0f, 0.282f, 0.663f
 
 #define STB_IMAGE_IMPLEMENTATION
-<<<<<<< HEAD
 #include "stb_image.h"
-=======
-#include "../_STB_Image/stb_image.h"
->>>>>>> 4581d69292fcf9690e968b1448b91ef019780c3b
 
 BOOL isKeyPressed[] = {FALSE, FALSE, FALSE, FALSE};
 BOOL isGameStart = TRUE;
