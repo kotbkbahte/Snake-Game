@@ -2,7 +2,8 @@
 Simple game Snake written in C using OpenGL.
 
 
-(Using mingw)
+(Using mingw) 
+
 gcc main.c -s  -lopengl32 -lglu32 -lgdi32 -mwindows
 
 
