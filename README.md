@@ -8,4 +8,5 @@ gcc main.c -s  -lopengl32 -lglu32 -lgdi32 -mwindows
 
 
 Control keys: WASD
+
 Restart game: R
